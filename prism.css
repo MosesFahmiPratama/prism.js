@@ -259,7 +259,7 @@ pre[id].linkable-line-numbers span.line-numbers-rows > span:hover:before {
  */
 .line-numbers .line-numbers-rows {
 	border-right: 1px solid #8da1b97a;
-	background: #d0dae77a;
+	background: transparent;
 }
 
 .line-numbers-rows > span:before {
